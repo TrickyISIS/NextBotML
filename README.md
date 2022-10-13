@@ -1,2 +1,2 @@
-# What is this?
-This is NextBot, a deep reinforcement learning bot made using RLGym. This project is made for me and my friends and my peers to work on.
+# rlgym_quickstart_tutorial_bot
+ A rocket league reinforcement learning bot made to get you up and running as fast as possible. Video guide available here: https://youtu.be/C92_UFZ1W-U
